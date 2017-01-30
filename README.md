@@ -54,16 +54,28 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 Each group has an assigned instructor or IA, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Team \#1 - TODO: INSTRUCTOR
-* TODO: STUDENT
-* TODO: STUDENT
+#### Team \#1 - Cory
+* Alex
+* Amber
+* LD
+* Mike
 
+#### Team \#2 - Cory
+* Aaron
+* Greice
+* Ryan
+* Shiv
+
+#### Team \#3 - Cory
+* Ricardo
+* RJ
+* Zach
 
 ## Presentation
 
-Each group will present their project on **TODO: WEEKDAY, MONTH DAY** starting at **TODO: TIME** for 10 minutes.
+Each group will present their project on **Monday, February 5th** starting at **1:15**.
 
-Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
+Presentations will be 12-15 minutes long and each member of your group should speak for equal time during your presentation. Each group member should mention which parts of the project they worked on.
 
 **Your presentation should include:**
 
