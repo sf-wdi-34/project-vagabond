@@ -73,7 +73,7 @@ Each group has an assigned instructor or IA, who will act as your client as well
 
 ## Presentation
 
-Each group will present their project on **Monday, February 5th** starting at **1:15**.
+Each group will present their project on **Monday, February 6th** starting at **1:15pm**.
 
 Presentations will be 12-15 minutes long and each member of your group should speak for equal time during your presentation. Each group member should mention which parts of the project they worked on.
 
