@@ -19,7 +19,7 @@ The client contract consists of three core sprints and four bonus sprints. Each 
 
 You will work in groups of 3-4, and we expect you to **pair program** for the majority of the time you're writing code.
 
-During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** to organize tasks ([example Trello board](https://trello.com/b/JPdt327u/vagabond)).
+During morning scrums and in smaller check-ins throughout the day, clearly communicate your current status and next steps to your teammates. Use a kanban-style scrum board such as **Trello** or **GitHub projects** to organize tasks ([example Trello board](https://trello.com/b/JPdt327u/vagabond) [example GitHub projects board](https://github.com/sf-wdi-34/project-vagabond/projects/2)).
 
 Commit changes at least once for each user story. Consider creating **automated tests** or even implementing TDD for any complex application behavior.
 
@@ -52,7 +52,7 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 ## Groups
 
-Each group has an assigned instructor or IA, who will act as your client as well as give technical support during instructor-group meetings.
+Each group has an assigned instructor who will act as your client as well as give technical support during instructor-group meetings.
 
 #### Team \#1 - Brianna
 * Alex
