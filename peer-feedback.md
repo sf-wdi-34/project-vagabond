@@ -51,4 +51,12 @@ One person on your team should volunteer to receive feedback first. Let's call t
   - offer any strategy or advice you thought of that Matt could use to improve
 
 1. Everyone else should add feedback for about 4 more minutes. This could be an open discussion of what the first two people said, or it could follow the format from the last step. 
+
+
+### Closing Thoughts
+
+1. Thank your group for providing feedback.
+1. Think about the parts of the feedback that will be most useful to you. 
+1. Write down one thing you'd like to improve on for your next group project and one specific strategy you could use. 
+
   
