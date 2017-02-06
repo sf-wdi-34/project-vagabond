@@ -87,7 +87,11 @@ Presentations will be 12-15 minutes long and each member of your group should sp
 
 ## Evaluation
 
-You will complete [self-reflection and peer feedback](https://github.com/sf-wdi-34/project-vagabond/blob/master/peer-feedback.md).  In addition, your project will be evaluated on the following measures:
+Share your project's links in [this project turn-in google doc](https://docs.google.com/spreadsheets/d/1vzxkkVwX2zU40BZArMknoHMYlu_5bVmyNYAEBMJXH5E/edit?usp=sharing). 
+
+You will complete [self-reflection and peer feedback](https://github.com/sf-wdi-34/project-vagabond/blob/master/peer-feedback.md).  
+
+In addition, your project will be evaluated on the following measures:
 
 1. Project workflow
   - frequent commits with good commit messages
