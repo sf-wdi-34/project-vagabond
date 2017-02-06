@@ -28,7 +28,7 @@ Location: SF
 *Before this workshop, developers should already be able to:*
 
 - Describe what qualities make feedback more or less helpful. 
-- Receive feedback respectfully. 
+- Interact with colleagues respectfully.
 - Define growth mindset. 
 
 
